@@ -1,0 +1,36 @@
+# Секреты — никогда не коммитить
+.env
+proxies.txt
+
+# База данных
+events.db
+
+# Виртуальное окружение
+env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
